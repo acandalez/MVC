@@ -1,4 +1,4 @@
-package ejemplos_valeriano;
+package ejemplos.valeriano;
 
 import java.io.IOException;
 import java.io.StringWriter;
