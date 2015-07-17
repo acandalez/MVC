@@ -89,7 +89,7 @@ public class UploadFileExample extends HttpServlet {
 			resp.setContentType("application/vnd.ms-powerpoint");
 
 		case 10:
-			resp.setContentType("application/vnd.ms-powerpoint.presentation.macroEnabled.12");
+			resp.setContentType("audio/mpeg3");
 
 		}
 
